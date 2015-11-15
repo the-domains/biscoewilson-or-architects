@@ -1,0 +1,23 @@
+name: 'BiscoeWilson | Architects'
+favicon: null
+layout_spectrum: 0.04610711825080216
+typography_spectrum: 0.05911023309454322
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3400241266936064
+  lightness: 0.24076005583629012
+  saturation: 0.8199492683634162
+  rhythmicContrast: 0.1500872008036822
+purpose: []
