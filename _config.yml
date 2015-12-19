@@ -1,29 +1,41 @@
-name: 'BiscoeWilson | Architects'
-favicon: null
-layout_spectrum: 0.57487
-typography_spectrum: 0.19981
 title: 'biscoewilson | architects'
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.7851064
+  brandStrength: 0.9021277
+  lightness: 0.5808511
+  brandColors:
+    - '#030302'
+    - '#A1A5BD'
+    - '#5C534B'
+    - '#D83903'
+    - '#B49B02'
+  rhythmicContrast: 0.612766
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+name: 'BiscoeWilson | Architects'
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#e4e4e4'
-    - '#a18d85'
-    - '#5c4e4d'
-    - '#fc614b'
-    - '#a1191e'
-  brandStrength: 0.25
-  lightness: 0.1875
-  saturation: 0.8199492683634162
-  rhythmicContrast: 0.25
-purpose: []
+typography_spectrum: 0.5319149
+layout_spectrum: 0.7787234
