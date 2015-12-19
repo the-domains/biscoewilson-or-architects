@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "An alteration of a 1930's queenslander in Ascot, Brisbane, designed by Biscoe Wilson Architects"
-datePublished: '2015-12-19T05:56:11.116Z'
-dateModified: '2015-11-16T04:28:15.003Z'
+datePublished: '2015-12-19T05:56:34.051Z'
+dateModified: '2015-12-19T05:56:11.116Z'
 title: House Alteration at Ascot
 sourcePath: _posts/2015-11-15-house-alteration-at-ascot.md
 published: true
